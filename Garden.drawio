@@ -15,7 +15,7 @@
         <mxCell id="SpOL9e87WTxg8DH9oZpm-2" parent="MnQUA0y2eyJ1riUrcQVW-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Slabbed&amp;nbsp;&lt;div&gt;Path&lt;/div&gt;" vertex="1">
           <mxGeometry height="780" width="90" x="30" as="geometry" />
         </mxCell>
-        <mxCell id="SpOL9e87WTxg8DH9oZpm-3" parent="0" style="locked=0;" value="Patio" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-3" parent="0" style="locked=1;" value="Patio" />
         <mxCell id="SpOL9e87WTxg8DH9oZpm-4" parent="SpOL9e87WTxg8DH9oZpm-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Slabbed Patio" vertex="1">
           <mxGeometry height="225" width="449" x="30" y="775" as="geometry" />
         </mxCell>
@@ -24,16 +24,40 @@
           <mxGeometry height="680" width="55" x="475" y="320" as="geometry" />
         </mxCell>
         <mxCell id="SpOL9e87WTxg8DH9oZpm-7" parent="0" style="locked=1;" value="Raised Concrete Pad" />
-        <mxCell id="SpOL9e87WTxg8DH9oZpm-8" parent="SpOL9e87WTxg8DH9oZpm-7" style="rounded=0;whiteSpace=wrap;html=1;" value="Raised Concrete Pad" vertex="1">
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-8" parent="SpOL9e87WTxg8DH9oZpm-7" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="320" width="320" x="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-45" parent="SpOL9e87WTxg8DH9oZpm-7" style="rounded=0;whiteSpace=wrap;html=1;" value="Summer House" vertex="1">
+          <mxGeometry height="250" width="300" x="220" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-46" parent="SpOL9e87WTxg8DH9oZpm-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Raised Concrete Pad [Mixed Potted Plants]" vertex="1">
+          <mxGeometry height="30" width="250" x="250" y="270" as="geometry" />
         </mxCell>
         <mxCell id="SpOL9e87WTxg8DH9oZpm-11" parent="0" style="locked=1;" value="Trees" />
         <mxCell id="SpOL9e87WTxg8DH9oZpm-12" parent="SpOL9e87WTxg8DH9oZpm-11" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Acer Tree" vertex="1">
           <mxGeometry height="50" width="50" x="120" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="SpOL9e87WTxg8DH9oZpm-14" parent="0" style="locked=1;" value="Gravel Path" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-36" parent="SpOL9e87WTxg8DH9oZpm-11" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Palm Tree" vertex="1">
+          <mxGeometry height="50" width="50" x="390" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-37" parent="SpOL9e87WTxg8DH9oZpm-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-38" parent="SpOL9e87WTxg8DH9oZpm-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-39" parent="SpOL9e87WTxg8DH9oZpm-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Ferns around tree base&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-14" parent="0" style="locked=1;" value="Gravel Path &amp; Paving" />
         <mxCell id="SpOL9e87WTxg8DH9oZpm-15" parent="SpOL9e87WTxg8DH9oZpm-14" style="rounded=0;whiteSpace=wrap;html=1;" value="Gravel Path" vertex="1">
-          <mxGeometry height="60" width="90" x="120" y="210" as="geometry" />
+          <mxGeometry height="60" width="90" x="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-52" parent="SpOL9e87WTxg8DH9oZpm-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Crazy Paving" vertex="1">
+          <mxGeometry height="30" width="30" x="135" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-53" parent="SpOL9e87WTxg8DH9oZpm-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Crazy Paving" vertex="1">
+          <mxGeometry height="30" width="30" x="430" y="410" as="geometry" />
         </mxCell>
         <mxCell id="SpOL9e87WTxg8DH9oZpm-17" parent="0" style="locked=1;" value="Front Borders" />
         <mxCell id="SpOL9e87WTxg8DH9oZpm-18" parent="SpOL9e87WTxg8DH9oZpm-17" style="rounded=0;whiteSpace=wrap;html=1;" value="Border [Row of Lambs ear plants]" vertex="1">
@@ -76,10 +100,32 @@
         <mxCell id="SpOL9e87WTxg8DH9oZpm-30" parent="SpOL9e87WTxg8DH9oZpm-28" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Sphere water feature" vertex="1">
           <mxGeometry height="60" width="60" x="265" y="465" as="geometry" />
         </mxCell>
-        <mxCell id="SpOL9e87WTxg8DH9oZpm-31" parent="SpOL9e87WTxg8DH9oZpm-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lawn" vertex="1">
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-31" parent="SpOL9e87WTxg8DH9oZpm-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Diamond Lawn" vertex="1">
           <mxGeometry height="30" width="60" x="265" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="SpOL9e87WTxg8DH9oZpm-32" parent="0" value="Seating" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-44" parent="SpOL9e87WTxg8DH9oZpm-28" style="rounded=0;whiteSpace=wrap;html=1;" value="Step" vertex="1">
+          <mxGeometry height="30" width="80" x="255" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-32" parent="0" style="locked=1;" value="Seating" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-34" parent="SpOL9e87WTxg8DH9oZpm-32" style="rounded=0;whiteSpace=wrap;html=1;rotation=315;direction=east;flipH=1;legacyAnchorPoints=0;flipV=0;" value="Bench" vertex="1">
+          <mxGeometry height="40" width="120" x="130" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-40" parent="SpOL9e87WTxg8DH9oZpm-32" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Cafe Table &amp;amp; Chairs" vertex="1">
+          <mxGeometry height="80" width="80" x="70" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-41" parent="SpOL9e87WTxg8DH9oZpm-32" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="140" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-42" parent="SpOL9e87WTxg8DH9oZpm-32" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="50" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-48" parent="0" style="locked=1;" value="Plants" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-49" parent="SpOL9e87WTxg8DH9oZpm-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bed [Shade tolerant plants Hostas]" vertex="1">
+          <mxGeometry height="30" width="80" x="380" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-50" parent="SpOL9e87WTxg8DH9oZpm-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bed [Shade tolerant plants Hostas]" vertex="1">
+          <mxGeometry height="30" width="80" x="140" y="610" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
