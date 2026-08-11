@@ -4,14 +4,82 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" style="locked=1;" value="Perimeter" />
-        <mxCell id="MnQUA0y2eyJ1riUrcQVW-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="1100" width="1100" as="geometry" />
+        <mxCell id="MnQUA0y2eyJ1riUrcQVW-1" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="1000" width="530" as="geometry" />
         </mxCell>
-        <mxCell id="MnQUA0y2eyJ1riUrcQVW-4" parent="0" value="Left Border" />
-        <mxCell id="MnQUA0y2eyJ1riUrcQVW-2" parent="0" value="Path" />
+        <mxCell id="MnQUA0y2eyJ1riUrcQVW-4" parent="0" style="locked=1;" value="Left Border" />
+        <mxCell id="MnQUA0y2eyJ1riUrcQVW-2" parent="0" style="locked=1;" value="Path" />
         <mxCell id="MnQUA0y2eyJ1riUrcQVW-3" parent="MnQUA0y2eyJ1riUrcQVW-2" style="rounded=0;whiteSpace=wrap;html=1;align=center;direction=north;rotation=90;" value="&lt;div style=&quot;&quot;&gt;Border &amp;nbsp;[Evenly spaced alternating Mexican feather grass and Lavender plants]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="1100" x="-535" y="535" as="geometry" />
+          <mxGeometry height="30" width="1000" x="-485" y="485" as="geometry" />
         </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-2" parent="MnQUA0y2eyJ1riUrcQVW-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Slabbed&amp;nbsp;&lt;div&gt;Path&lt;/div&gt;" vertex="1">
+          <mxGeometry height="780" width="90" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-3" parent="0" style="locked=0;" value="Patio" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-4" parent="SpOL9e87WTxg8DH9oZpm-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Slabbed Patio" vertex="1">
+          <mxGeometry height="225" width="449" x="30" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-5" parent="0" style="locked=1;" value="Right Border" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-6" parent="SpOL9e87WTxg8DH9oZpm-5" style="rounded=0;whiteSpace=wrap;html=1;" value="Border [Shade tolerant ferns]" vertex="1">
+          <mxGeometry height="680" width="55" x="475" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-7" parent="0" style="locked=1;" value="Raised Concrete Pad" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-8" parent="SpOL9e87WTxg8DH9oZpm-7" style="rounded=0;whiteSpace=wrap;html=1;" value="Raised Concrete Pad" vertex="1">
+          <mxGeometry height="320" width="320" x="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-11" parent="0" style="locked=1;" value="Trees" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-12" parent="SpOL9e87WTxg8DH9oZpm-11" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Acer Tree" vertex="1">
+          <mxGeometry height="50" width="50" x="120" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-14" parent="0" style="locked=1;" value="Gravel Path" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-15" parent="SpOL9e87WTxg8DH9oZpm-14" style="rounded=0;whiteSpace=wrap;html=1;" value="Gravel Path" vertex="1">
+          <mxGeometry height="60" width="90" x="120" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-17" parent="0" style="locked=1;" value="Front Borders" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-18" parent="SpOL9e87WTxg8DH9oZpm-17" style="rounded=0;whiteSpace=wrap;html=1;" value="Border [Row of Lambs ear plants]" vertex="1">
+          <mxGeometry height="50" width="355" x="120" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-19" parent="SpOL9e87WTxg8DH9oZpm-17" style="rounded=0;whiteSpace=wrap;html=1;" value="Border [Row of slightly taller mediterranean plants]" vertex="1">
+          <mxGeometry height="50" width="355" x="120" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-20" parent="SpOL9e87WTxg8DH9oZpm-17" style="rounded=0;whiteSpace=wrap;html=1;" value="Bed [5 Potted shrubs Hebe &amp;amp;&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start;&quot;&gt;&lt;font&gt;Euonymus]&lt;/font&gt;&lt;/span&gt;&lt;div class=&quot;QzGOQd&quot; data-sfc-root=&quot;ep&quot; data-copy-service-computed-style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom-width: 0px; border-bottom-style: none; border-bottom-color: rgb(230, 232, 240);&quot; style=&quot;font-size: 16px; text-align: start; font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin: 0px; border-bottom-width: 0px; border-bottom-style: none; border-bottom-color: rgb(230, 232, 240);&quot;&gt;&lt;div class=&quot;PwvzCf WEeWWe&quot; data-sfc-root=&quot;ep&quot; data-wiz-uids=&quot;fPqXRe_a,fPqXRe_b&quot; data-sfc-inited=&quot;2&quot; data-copy-service-computed-style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-weight: 400; margin: 0px 0px 0px 16px; text-decoration: none; border-bottom-width: 0px; border-bottom-style: none; border-bottom-color: rgb(230, 232, 240);&quot; style=&quot;margin: 0px 0px 0px 16px; border-bottom-width: 0px; border-bottom-style: none; border-bottom-color: rgb(230, 232, 240);&quot;&gt;&lt;div id=&quot;ic-osXPgua0K0ehtM&quot; role=&quot;button&quot; class=&quot;QwWKjd&quot; tabindex=&quot;0&quot; data-visible=&quot;1&quot; data-ved=&quot;2ahUKEwjv0MfB_ZiWAxUsR0EAHVNlFLUQn7IPegoIAggACAAIAhAD&quot; data-sve=&quot;&quot; data-ssid=&quot;svim&quot; data-ep-type=&quot;src&quot; data-sv-cpt=&quot;4&quot; data-im=&quot;[0,&amp;quot;osXPgua0K0ehtM&amp;quot;,[&amp;quot;https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPcjPkmlwR8vPSyh0f1NV1JtTVD81A-ypcWuqhCBygeP4f0V64&amp;quot;,183,275],[&amp;quot;https://images.immediate.co.uk/production/volatile/sites/10/2021/04/2048x1365-Euonymus-SEO_GettyImages-1301749512-2d151b5.jpg&amp;quot;,1365,2048],{&amp;quot;35&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;2003&amp;quot;:[null,&amp;quot;ftdqXrTgEUuwIM&amp;quot;,&amp;quot;https://www.gardenersworld.com/how-to/grow-plants/20-best-euonymus-plants/&amp;quot;,&amp;quot;10 Best Euonymus Plants | BBC Gardeners World Magazine&amp;quot;,null,null,null,null,null,null,null,null,&amp;quot;www.gardenersworld.com&amp;quot;,null,null,null,null,&amp;quot;www.gardenersworld.com&amp;quot;]}]&quot; data-copy-service-computed-style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom-width: 0px; border-bottom-style: none; border-bottom-color: rgb(230, 232, 240);&quot; style=&quot;margin: 0px; border-bottom-width: 0px; border-bottom-style: none; border-bottom-color: rgb(230, 232, 240);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="290" x="30" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-21" parent="SpOL9e87WTxg8DH9oZpm-17" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="120" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-22" parent="SpOL9e87WTxg8DH9oZpm-17" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="450" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-23" parent="SpOL9e87WTxg8DH9oZpm-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Square Planter" vertex="1">
+          <mxGeometry height="30" width="60" x="390" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-24" parent="SpOL9e87WTxg8DH9oZpm-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Square Planter" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-26" edge="1" parent="SpOL9e87WTxg8DH9oZpm-17" source="SpOL9e87WTxg8DH9oZpm-21" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="SpOL9e87WTxg8DH9oZpm-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="580" as="sourcePoint" />
+            <mxPoint x="380" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-27" edge="1" parent="SpOL9e87WTxg8DH9oZpm-17" source="SpOL9e87WTxg8DH9oZpm-22" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="SpOL9e87WTxg8DH9oZpm-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="790" as="sourcePoint" />
+            <mxPoint x="265" y="807" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-28" parent="0" style="locked=1;" value="Lawn" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-29" parent="SpOL9e87WTxg8DH9oZpm-28" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="350" width="350" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-30" parent="SpOL9e87WTxg8DH9oZpm-28" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Sphere water feature" vertex="1">
+          <mxGeometry height="60" width="60" x="265" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-31" parent="SpOL9e87WTxg8DH9oZpm-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lawn" vertex="1">
+          <mxGeometry height="30" width="60" x="265" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-32" parent="0" value="Seating" />
       </root>
     </mxGraphModel>
   </diagram>
