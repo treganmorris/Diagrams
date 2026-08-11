@@ -104,7 +104,7 @@
           <mxGeometry height="30" width="60" x="265" y="410" as="geometry" />
         </mxCell>
         <mxCell id="SpOL9e87WTxg8DH9oZpm-44" parent="SpOL9e87WTxg8DH9oZpm-28" style="rounded=0;whiteSpace=wrap;html=1;" value="Step" vertex="1">
-          <mxGeometry height="30" width="80" x="255" y="320" as="geometry" />
+          <mxGeometry height="40" width="80" x="255" y="320" as="geometry" />
         </mxCell>
         <mxCell id="SpOL9e87WTxg8DH9oZpm-32" parent="0" style="locked=1;" value="Seating" />
         <mxCell id="SpOL9e87WTxg8DH9oZpm-34" parent="SpOL9e87WTxg8DH9oZpm-32" style="rounded=0;whiteSpace=wrap;html=1;rotation=315;direction=east;flipH=1;legacyAnchorPoints=0;flipV=0;" value="Bench" vertex="1">
@@ -123,8 +123,15 @@
         <mxCell id="SpOL9e87WTxg8DH9oZpm-49" parent="SpOL9e87WTxg8DH9oZpm-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bed [Shade tolerant plants Hostas]" vertex="1">
           <mxGeometry height="30" width="80" x="380" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="SpOL9e87WTxg8DH9oZpm-50" parent="SpOL9e87WTxg8DH9oZpm-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bed [Shade tolerant plants Hostas]" vertex="1">
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-50" parent="SpOL9e87WTxg8DH9oZpm-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bed [Mediterranean plants]" vertex="1">
           <mxGeometry height="30" width="80" x="140" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-54" parent="0" value="Doors" />
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-55" parent="SpOL9e87WTxg8DH9oZpm-54" style="rounded=0;whiteSpace=wrap;html=1;" value="Back Gate" vertex="1">
+          <mxGeometry height="30" width="90" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpOL9e87WTxg8DH9oZpm-56" parent="SpOL9e87WTxg8DH9oZpm-54" style="rounded=0;whiteSpace=wrap;html=1;" value="Patio Doors to house" vertex="1">
+          <mxGeometry height="30" width="130" x="330" y="970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
